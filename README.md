@@ -25,6 +25,26 @@ Keep updating!!!
 * 2021	PaStaNet-HOI (TPAMI2021) [[Benchmark]](https://github.com/DirtyHarryLYL/Transferable-Interactiveness-Network/tree/master/PaStaNet-HOI_Benckmark)	
 * 2020	HOI-A	[[paper]](https://arxiv.org/abs/1912.12898),	[[project]](https://arxiv.org/abs/1912.12898)
 
+## Video-based:
+* 2021	VidHOI	[[paper]](https://arxiv.org/abs/2105.11731)
+* 2013	CAD120	[[paper]](https://arxiv.org/abs/1210.1207)	
+* 2018	AVA 	[[paper]](https://arxiv.org/abs/1705.08421),	[[project]](http://research.google.com/ava/)
+* 2020	Sth-else	[[paper]](https://arxiv.org/abs/1912.09930),	[[code]](https://github.com/joaanna/something_else)
+* 2021	MECCANO	[[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Ragusa_The_MECCANO_Dataset_Understanding_Human-Object_Interactions_From_Egocentric_Videos_in_WACV_2021_paper.html),	[[project]](https://iplab.dmi.unict.it/MECCANO/),	[[code]](https://github.com/fpv-iplab/MECCANO)
+
+
 # Algorithms
+
+
+
+
+
+
+
+
+
+
+
+
 
 
