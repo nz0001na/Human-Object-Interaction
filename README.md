@@ -91,11 +91,11 @@ Keep updating!!!
 * 2022		Improving Human-Object Interaction Detection via Phrase Learning and Label Composition	[[paper]](https://arxiv.org/abs/2112.07383)		
 * 2021		Detecting Human-to-Human-or-Object (H2O) Interactions with DIABOLO [[paper]](https://arxiv.org/pdf/2201.02396.pdf)		
 * 2021		Learning human-object interaction detection via deformable transformer [[paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12076/1207602/Learning-human-object-interaction-detection-via-deformable-transformer/10.1117/12.2606873.short?SSO=1)			
-* 2021		Learning human-object interactions by attention aggregation	[[paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11913/119130H/Learning-human-object-interactions-by-attention-aggregation/10.1117/12.2604708.short)		
+* 2021		Learning human-object interactions by attention aggregation	[[paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11913/119130H/Learning-human-object-interactions-by-attention-aggregation/10.1117/12.2604708.short)
+* 2022		Discovering Human-Object Interaction Concepts via Self-Compositional Learning	[[paper]](https://arxiv.org/abs/2203.14272),	[[code]](https://github.com/zhihou7/HOI-CL)	
 					
-					
-					
-					
+## Video-based:
+*
 					
 					
 
