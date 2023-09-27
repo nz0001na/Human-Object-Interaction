@@ -95,7 +95,15 @@ Keep updating!!!
 * 2022		Discovering Human-Object Interaction Concepts via Self-Compositional Learning	[[paper]](https://arxiv.org/abs/2203.14272),	[[code]](https://github.com/zhihou7/HOI-CL)	
 					
 ## Video-based:
-*
+* 2021		Detecting Human-Object Relationships in Videos	[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Ji_Detecting_Human-Object_Relationships_in_Videos_ICCV_2021_paper.html)	
+* 2021	[STIGPN]	Spatio-Temporal Interaction Graph Parsing Networks for Human-Object Interaction Recognition	[[paper]](https://arxiv.org/abs/2108.08633),	[[code]](https://github.com/NingWang2049/STIGPN)	
+* 2021	[ST-HOI]	ST-HOI: A Spatial-Temporal Baseline for Human-Object Interaction Detection in Videos	[[paper]](https://arxiv.org/abs/2105.11731),	[[code]](https://github.com/coldmanck/VidHOI)	
+* 2020	[LIGHTEN]	LIGHTEN: Learning Interactions with Graph and Hierarchical TEmporal Networks for HOI in videos	[[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413778),	[[code]](https://github.com/praneeth11009/LIGHTEN-Learning-Interactions-with-Graphs-and-Hierarchical-TEmporal-Networks-for-HOI)
+* 2021		Scaling Human-Object Interaction Recognition in the Video through Zero-Shot Learning	[[paper]](https://downloads.hindawi.com/journals/cin/2021/9922697.pdf)	
+* 2019		Grounded Human-Object Interaction Hotspots from Video	[[paper]](https://arxiv.org/abs/1812.04558),	[[code]](https://github.com/Tushar-N/interaction-hotspots),	[[project]](https://vision.cs.utexas.edu/projects/interaction-hotspots/)
+* 2018	[GPNN]	Learning Human-Object Interactions by Graph Parsing Neural Networks	[[paper]](http://web.cs.ucla.edu/~syqi/publications/eccv2018gpnn/eccv2018gpnn.pdf),	[[code]](https://github.com/SiyuanQi/gpnn)	
+* 2022		Hand-Object Interaction Reasoning	[[paper]](https://arxiv.org/abs/2201.04906)	
+					
 					
 					
 
