@@ -7,7 +7,7 @@ Keep updating!!!
 # Survey/review
 
 * 2022		Review list [[link]](https://github.com/DirtyHarryLYL/HOI-Learning-List)
-* 2020		A paper list of HOI [[limnk]](https://github.com/chinancheng/awesome-human-object-interaction)
+* 2020		A paper list of HOI [[link]](https://github.com/chinancheng/awesome-human-object-interaction)
 * 2020	Human-Object Interaction Detection_A Quick Survey and Examination of Methods	[[paper]](https://dl.acm.org/doi/abs/10.1145/3422852.3423481)
 * 2021	A Review of Vision-Based Techniques Applied to Detecting Human-Object Interactions in Still Images	[[paper]](http://jcse.kiise.org/files/V15N1-02.pdf)
 
