@@ -4,7 +4,7 @@ This repository collects databases and algorithims about human-objects interacti
 Keep updating!!!
 
 
-# Survey/review
+# Survey/Review
 
 * 2022	Review list [[link]](https://github.com/DirtyHarryLYL/HOI-Learning-List)
 * 2020	A paper list of HOI [[link]](https://github.com/chinancheng/awesome-human-object-interaction)
